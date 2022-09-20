@@ -1,16 +1,5 @@
 # shoes_app
 
-A new Flutter project.
+Una pequeña aplicación hecha en Flutter el cual muestra muestra la pantalla de una aplicación de zapatos y diferentes interacciones con esta
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esta aplicación fue hecha siguiendo las instrucciones del profesor Fernando Herrera de su curso Flutter Intermedio: Diseños profesionales y animaciones
